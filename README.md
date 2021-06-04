@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingZwen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning do net core webapps
+- 🌱 I’m currently learning dot net core webapps
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me codingzwen@web.de
 
